@@ -1,3 +1,5 @@
+You can play my model by Robot.exe.
+
 1. On the control window, extend the menu:
 You can save of my artifact as a BMP image and some .txt file format.
 And load your mesh file “.ply” to show some figures:
